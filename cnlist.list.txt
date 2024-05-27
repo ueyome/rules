@@ -1,0 +1,6 @@
+# 直连
+# 数量：4条
+DOMAIN-SUFFIX,steamdb.info
+DOMAIN-SUFFIX,nvidia.com
+DOMAIN-SUFFIX,api.pcrdfans.com
+DOMAIN-SUFFIX,3dmgame.com
